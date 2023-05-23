@@ -12,9 +12,8 @@ spring:
     datasource:
         url: jdbc:mysql://localhost:3306
         username: root
-        password: qsm12104214! //配置为自己数据库的密码
+        password: qsm12104214! #配置为自己数据库的密码
         driver-class-name:  com.mysql.cj.jdbc.Driver
-
     mail:
         # 所用邮箱的smtp地址
         host: smtp.qq.com
